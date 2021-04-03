@@ -5,7 +5,7 @@ Se realizó como prueba para Hireline
 Emanuel Giovany Salas Salas
 
 
-# Requerimientos
+## Requerimientos
  PHP 7.4.9
  Composer
 
